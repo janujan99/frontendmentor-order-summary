@@ -4,6 +4,7 @@ body {
   justify-content: center;
   align-content: center;
   background-image: url("images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
 }
 .big_box {
   margin-top: 5%;
